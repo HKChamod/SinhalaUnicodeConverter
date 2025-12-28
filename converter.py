@@ -175,7 +175,7 @@ class SinhalaConverterApp(ctk.CTk):
         
         # --- THEME SETUP ---
         ctk.set_appearance_mode("Dark")
-        self.title("Sinhala Converter Modern")
+        self.title("Sinhala Converter")
         self.geometry("900x650")
         
         # Define Colors
